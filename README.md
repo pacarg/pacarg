@@ -11,7 +11,3 @@ No soy programador ni desarrollador: soy **divulgador tecnológico**. Desde 1987
 - 🗣️ Encontrame también en X como [@TheTechnoCoach](https://x.com/TheTechnoCoach)
 
 **Por qué estoy en GitHub:** de vez en cuando toco algún proyecto pequeño por curiosidad —como [b481-navigator](https://github.com/pacarg/b481-navigator), una app liviana para orientarse en un desvío vial cerca de casa— pero mi aporte principal acá suele ser de traducción y divulgación.
-
----
-
-🇬🇧 **In English:** I'm not a developer — I'm a tech educator. I help Spanish-speaking people, especially older adults, feel less intimidated by technology, through my blog [guiatecnologico.com](https://guiatecnologico.com). I believe technology is only worth using if it brings people closer together, not if it overwhelms them: simplicity, privacy and human connection over complexity for its own sake — the same balance I try to live outside the screen too. I occasionally tinker with small personal projects out of curiosity, but my main contributions here tend to be translation and outreach work.
