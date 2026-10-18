@@ -12,7 +12,7 @@ Empecé en informática en 1987 aprendiéndola por mi cuenta. Durante años me d
 
 **En qué trabajo hoy:** auditorías técnicas de plataformas PHP/MySQL en producción, planificación y coordinación de migraciones de infraestructura, y proyectos de evaluación documental con modelos de lenguaje locales. No escribo el código —coordino el proyecto, analizo el sistema, documento los hallazgos y gestiono la ejecución técnica.
 
-**Por qué estoy en GitHub:** publico herramientas pequeñas que construyo por necesidad propia, como [b481-navigator](https://github.com/pacarg/b481-navigator), y contribuyo con traducción y divulgación en proyectos que me parecen relevantes.
+**Por qué estoy en GitHub:** publico herramientas y sitios que construyo por necesidad o curiosidad propia. El más reciente es [Wahlblick](https://wahlblick.de) — mapa interactivo de resultados electorales federales y estatales de Alemania (Bundestagswahl & Landtagswahl), construido sobre fuentes oficiales verificadas, sin dependencias externas, disponible en alemán, español e inglés. También contribuyo con traducción y divulgación en proyectos que me parecen relevantes.
 
 ---
 
