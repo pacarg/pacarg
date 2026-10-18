@@ -2,7 +2,7 @@
 
 Empecé en informática en 1987 aprendiéndola por mi cuenta. Durante años me dediqué a ayudar a hispanohablantes —sobre todo adultos mayores— a perder el miedo a la tecnología. Ese trabajo sigue siendo parte de lo que hago, pero hoy también coordino proyectos técnicos reales: auditorías de plataformas web, consolidación de sistemas heredados y aplicaciones de IA a flujos de trabajo concretos.
 
-**Cómo pienso la tecnología:** para mí una herramienta solo vale si acerca a las personas, no si las abruma. Prefiero lo simple sobre lo complicado, y lo que respeta el tiempo y la privacidad de cada uno sobre lo que solo busca retenerte la atención. Esa misma búsqueda de equilibrio —entre tecnología, naturaleza y vida simple— es la que trato de vivir también fuera de la pantalla.
+**Cómo pienso la tecnología:** para mí una herramienta principalmente vale si acerca a las personas, no si las abruma. Prefiero lo simple sobre lo complicado, y lo que respeta el tiempo y la privacidad de cada uno sobre lo que solo busca retenerte la atención. Esa misma búsqueda de equilibrio —entre tecnología, naturaleza y vida simple— es la que trato de vivir también fuera de la pantalla.
 
 - 🌐 **[guiatecnologico.com](https://guiatecnologico.com)** — blog y consultoría tecnológica independiente
 - Argentino, viviendo en Alemania hace más de una década
