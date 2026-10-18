@@ -1,3 +1,5 @@
+﻿![Pablo A. Churín — Guía Tecnológico](github-banner.png)
+
 ### 👋 Hola, soy Pablo — Guía Tecnológico
 
 Soy Pablo — consultor técnico independiente y divulgador tecnológico. Analizo plataformas web en producción, documento hallazgos, coordino migraciones de infraestructura y aplico modelos de lenguaje a flujos de trabajo documentales. No escribo el código: diseño la solución, defino los criterios, dirijo la ejecución técnica y verifico los resultados.
